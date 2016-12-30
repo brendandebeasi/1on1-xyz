@@ -1,3 +1,48 @@
 .address {
     margin-top: 40px;
 }
+#omar_portrait {
+    width: 189px;
+    height: 252px;
+    background-image: url('../img/portrait@2x.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    margin: auto;
+}
+#long_shot_1 {
+    width: 378px;
+    height: 252px;
+    background-image: url('../img/long_shot_1.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    margin: auto;
+}
+#long_shot_2 {
+    width: 378px;
+    height: 252px;
+    background-image: url('../img/long_shot_2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    margin: auto;
+}
+#long_shot_group {
+    width: 378px;
+    height: 252px;
+    background-image: url('../img/long_shot_group.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    margin: auto;
+}
+#bathroom {
+    width: 378px;
+    height: 252px;
+    background-image: url('../img/bathroom.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    margin: auto;
+}
