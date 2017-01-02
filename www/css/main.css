@@ -2,13 +2,14 @@
     margin-top: 40px;
 }
 #omar_portrait {
-    width: 189px;
-    height: 252px;
-    background-image: url('../img/portrait@2x.png');
+    width: 400px;
+    height: 400px;
+    background-image: url('../img/portrait_round@2x.png');
     background-repeat: no-repeat;
     background-size: contain;
     display: block;
     margin: auto;
+    max-width: 100%;
 }
 #long_shot_1 {
     width: 378px;
@@ -45,4 +46,13 @@
     background-size: contain;
     display: block;
     margin: auto;
+}
+.jumbotron.light-padding {
+    padding: 20px;
+}
+p.lead {
+    margin-top: 20px;
+}
+.contacts {
+    margin-bottom:20px;
 }
